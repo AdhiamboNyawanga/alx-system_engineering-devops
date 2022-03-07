@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "sshd:x:109:65534::/run/sshd:/usr/sbin/nologin
+landscape:x:110:115::/var/lib/landscape:/usr/sbin/nologin
+pollinate:x:111:1::/var/cache/pollinate:/bin/false
+nyang:x:1000:1000:,,,:/home/nyang:/bin/bash"
