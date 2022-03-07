@@ -1,1 +1,2 @@
-My Readme
+#!/bin/bash
+echo "My Readme"
